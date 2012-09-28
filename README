@@ -1,0 +1,7 @@
+
+misc scripts / tools / stuff
+
+ - vboxvmtime.py
+   Script to calculate and set VirtualBox BIOS time offset for a VM. Useful for forensic analysis and other situations...
+
+
