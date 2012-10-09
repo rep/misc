@@ -1,6 +1,9 @@
 
 misc scripts / tools / stuff
 
+ - monitor.py
+   Wrapper around xrandr to be able to switch on external displays easily ("monitor left").
+
  - vboxvmtime.py
    Script to calculate and set VirtualBox BIOS time offset for a VM. Useful for forensic analysis and other situations...
 
